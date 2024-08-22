@@ -1,2 +1,2 @@
-# BankingApplicatin
+# BankingApplication
  CoreJava
